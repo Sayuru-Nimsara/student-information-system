@@ -1,0 +1,4 @@
+ST0001 Sayuru Nimsara 360/A,NagaraseemaRoad,Homagama 2000 7 20 Male 0714855968 sayurunimsara3@gmail.com Samantha 0718573453 1234
+ST0002 Sanithu Minsara 360/A,NagaraseemaRoad,Homagama 2005 6 10 Male 0710155161 Saniya123@hotmail.com Samantha 0718573453 Sanithu
+ST0003 Shamini Vidarsha 279,Malapalla,Kottawa 2000 6 2 Female 0774855468 shamini@gmail.com Thakshila 0112855968 Shamini123
+ST0004 Harith Dilanka 541,Malagala,Padukka 2000 2 19 Male 0710155161 Harithiii@gmail.com Wanigarathna 0112894506 123
